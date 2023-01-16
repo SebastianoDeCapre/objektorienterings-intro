@@ -216,3 +216,5 @@ while health >= 0:
                         str(skill_mechanic) + "\n Warfare:" + str(skill_warfare) + "\n Health:" + str(health) + "\n\n")
         else:
             typingPrint("TRY AGAIN")
+
+print("martin")
